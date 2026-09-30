@@ -1,0 +1,13 @@
+Python is a high-level programming language used for general-purpose programming.
+
+Python supports several data structures including lists, tuples, sets, and dictionaries.
+
+A list is an ordered and mutable collection of elements.
+
+A dictionary stores data in key-value pairs.
+
+Binary search is an efficient searching algorithm that works on sorted arrays.
+
+Binary search repeatedly divides the search space into two halves.
+
+The time complexity of binary search is O(log n).
